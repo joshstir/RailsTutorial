@@ -1,0 +1,9 @@
+Wed, 10 Aug 2016 22:06:46 -0400
+README.rdoc	Thu, 21 Jul 2016 23:23:39 -0400
+app/controllers/application_controller.rb	Thu, 21 Jul 2016 23:23:39 -0400
+app/controllers/static_pages_controller.rb	Sat, 23 Jul 2016 20:36:12 -0400
+app/controllers/users_controller.rb	Sun, 07 Aug 2016 22:27:30 -0400
+app/helpers/application_helper.rb	Sun, 24 Jul 2016 22:46:09 -0400
+app/helpers/static_pages_helper.rb	Sat, 23 Jul 2016 20:36:12 -0400
+app/helpers/users_helper.rb	Tue, 02 Aug 2016 21:50:54 -0400
+app/models/user.rb	Tue, 02 Aug 2016 21:39:34 -0400
